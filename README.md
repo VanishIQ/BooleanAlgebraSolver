@@ -1,1 +1,2 @@
-# BooleanAlgebraSolver
+# Boolean Algebra Solver
+برنامج لحل مسائل الجبر البولي باستخدام خوارزمية التحليل العكسي
